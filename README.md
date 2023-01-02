@@ -20,9 +20,9 @@
 
 My Experience Revolves Around:
 
-:computer: Full Stack Development.
-:cloud: APIs Design and Development.
-:wrench: Data Mining, Data Streaming, and Big Data tools/techniques.
+<div> :computer: Full Stack Development. </div>
+<div> :cloud: APIs Design and Development. </div>
+<div> :wrench: Data Mining, Data Streaming, and Big Data tools/techniques. </div>
 
 ---
 
