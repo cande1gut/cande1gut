@@ -13,7 +13,6 @@
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fcande.me" alt="Website Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=cande1gut&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
