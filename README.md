@@ -18,12 +18,13 @@
 
 ---
 
-My Experience Revolves Around:
+<h2> 
+  My Experience Revolves Around:
 
-<div> :computer: Full Stack Development. </div>
-<div> :cloud: APIs Design and Development. </div>
-<div> :wrench: Data Mining, Data Streaming, and Big Data tools/techniques. </div>
-
+  <div> :computer: Full Stack Development. </div>
+  <div> :cloud: APIs Design and Development. </div>
+  <div> :wrench: Data Mining, Data Streaming, and Big Data tools/techniques. </div>
+</h2>
 ---
 
 <h3> :hammer_and_wrench: Languages and Tools: </h3>
