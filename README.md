@@ -20,7 +20,7 @@
 
 ### :wave: About Me:
 
-<h3> Passionate Software Engineer, Entrepreneur, and Porblem Solver </h3>
+<h3> Passionate Software Engineer, Entrepreneur, and Problem Solver </h3>
 
 My Experience Revolves Around:
 
