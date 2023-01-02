@@ -1,4 +1,10 @@
 
+<div align="center"> 
+  <h3> Passionate Software Engineer, Entrepreneur, and Problem Solver </h3>
+</div>
+
+---
+
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/candegut/">
@@ -16,10 +22,6 @@
 </div>
 
 ---
-
-<div align="center"> 
-  <h3> Passionate Software Engineer, Entrepreneur, and Problem Solver </h3>
-</div>
 
 My Experience Revolves Around:
 
