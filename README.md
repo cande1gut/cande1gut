@@ -1,9 +1,6 @@
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.cande.me">
-      <img src="https://img.shields.io/website?url=https%3A%2F%2Fcande.me" alt="Website Badge"/>
-    </a>
     <a href="https://www.linkedin.com/in/candegut/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -12,6 +9,9 @@
     </a>
   </div>
 
+  <a href="https://www.cande.me">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fcande.me" alt="Website Badge"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=cande1gut&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -40,5 +40,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" **alt="Kafka" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" **alt="Kafka" width="40" height="40"/>
 </div>
