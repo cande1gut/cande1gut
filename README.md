@@ -18,6 +18,18 @@
 
 ---
 
+### :wave: About Me:
+
+<h3 Passionate Software Engineer, Entrepreneur, and Porblem Solver </h3
+
+My Experience Revolves Around:
+
+* Full Stack Development.
+* APIs Design and Development.
+* Data Mining, Data Streaming, and Big Data tools/techniques.
+
+---
+
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
