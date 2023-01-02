@@ -19,7 +19,7 @@
 ---
 
 <div align="center"> 
-  ### :wave: About Me
+  <h1> :wave: About Me </h1>
   <h3> Passionate Software Engineer, Entrepreneur, and Problem Solver </h3>
 </div>
 
@@ -31,7 +31,7 @@ My Experience Revolves Around:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+<h1> :hammer_and_wrench: Languages and Tools: </h1>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
