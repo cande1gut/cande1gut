@@ -18,9 +18,10 @@
 
 ---
 
-### :wave: About Me:
-
-<h3> Passionate Software Engineer, Entrepreneur, and Problem Solver </h3>
+<div align="center"> 
+  ### :wave: About Me
+  <h3> Passionate Software Engineer, Entrepreneur, and Problem Solver </h3>
+</div>
 
 My Experience Revolves Around:
 
