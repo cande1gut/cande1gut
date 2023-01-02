@@ -8,10 +8,11 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-
-  <a href="https://www.cande.me">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fcande.me" alt="Website Badge"/>
-  </a>
+  <div id="website">
+    <a href="https://www.cande.me">
+      <img src="https://img.shields.io/website?url=https%3A%2F%2Fcande.me" alt="Website Badge"/>
+    </a>
+  </div>
   <img src="https://komarev.com/ghpvc/?username=cande1gut&style=flat-square&color=blue" alt=""/>
 </div>
 
