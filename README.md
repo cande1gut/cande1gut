@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <h3> Passionate Software Engineer, Entrepreneur, and Problem Solver </h3>
+  <h1> Passionate Software Engineer, Entrepreneur, and Problem Solver </h1>
 </div>
 
 ---
@@ -31,7 +31,7 @@ My Experience Revolves Around:
 
 ---
 
-<h1> :hammer_and_wrench: Languages and Tools: </h1>
+<h3> :hammer_and_wrench: Languages and Tools: </h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
