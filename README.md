@@ -19,7 +19,6 @@
 ---
 
 <div align="center"> 
-  <h1> :wave: About Me </h1>
   <h3> Passionate Software Engineer, Entrepreneur, and Problem Solver </h3>
 </div>
 
