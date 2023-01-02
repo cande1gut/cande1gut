@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Passionate Software Engineer, Entrepreneur, and Problem Solver%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Passionate%20Software%20Engineer,%20Entrepreneur,%20and%20Problem%20Solver%20render&fontSize=90" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/candegut/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
