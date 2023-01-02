@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> Passionate Software Engineer, Entrepreneur, and Problem Solver </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Passionate Software Engineer, Entrepreneur, and Problem Solver%20render&fontSize=90" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/candegut/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +19,7 @@
 
 My Experience Revolves Around:
 
-* Full Stack Development.
+:computer: Full Stack Development.
 * APIs Design and Development.
 * Data Mining, Data Streaming, and Big Data tools/techniques.
 
