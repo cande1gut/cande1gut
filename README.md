@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dream%20Big&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Dream%20Big&fontSize=90" />
   <h1> Passionate Software Engineer, Entrepreneur, and Problem Solver </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/candegut/">
