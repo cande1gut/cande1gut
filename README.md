@@ -18,16 +18,6 @@
 
 ---
 
-### About Me:
-
-- :telescope: 
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: 
-
----
-
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
