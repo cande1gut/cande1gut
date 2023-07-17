@@ -3,8 +3,6 @@
   <h1> Passionate Software Engineer, Entrepreneur, and Problem Solver </h1>
 </div>
 
----
-
 <h3> :books: Experience: </h3>
 
 <div> :computer: Full Stack Development. </div>
