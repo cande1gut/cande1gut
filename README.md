@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Cande&fontSize=100&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Candelario%20Gutierrez&textBg=false&fontAlign=50&animation=scaleIn&section=header&reversal=false" />
 </div>
 
 <h3> :books: Experience: </h3>
